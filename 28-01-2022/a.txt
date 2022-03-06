@@ -1,0 +1,8 @@
+1.red
+2.black
+3.green
+4.white
+5.pink
+6.blue
+7.orange
+
